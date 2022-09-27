@@ -11,12 +11,9 @@ body {
 h1{
     text-align: center;
 }
-
-h2 {
+h2{
     text-align: center;
-    color: cadetblue;
 }
-
 .div1 {
 margin-left: 450px;
 }
@@ -25,7 +22,7 @@ margin-left: 450px;
     height: 100px;
     width: 100px;
     background-color: green;
-    margin: 28px;
+    margin: 20px;
     display: flex;
     flex-flow: column wrap;
     align-content: center;
@@ -35,7 +32,6 @@ margin-left: 450px;
 
 .div2 {
     transition: width 2s;
-    display: inline-block;
 }
 
 .div2:hover {
